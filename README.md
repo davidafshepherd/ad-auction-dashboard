@@ -1,2 +1,1 @@
-# Ad-Dashboard
-This repository contains the Ad Dasboard project. Ad Dasboard is an application that evaluates the success of advertising campaigns. It was made using Java, JavaFX and Maven. This was a project I did for one of my modules in my second year of university.
+The auction-ad-analytics folder is the project directory. The .jar file is the executable .jar file that starts up the app. Use username:admin and password:admin to login to the app. Sample advertising campaign data has been provided.
