@@ -1,1 +1,1 @@
-The auction-ad-analytics folder is the project directory. The .jar file is the executable .jar file that starts up the app. Use username:admin and password:admin to login to the app. Sample advertising campaign data has been provided.
+The auction-ad-analytics folder is the project directory. The .jar file is the executable .jar file that starts up the app. Use username: admin and password: admin to login to the app. Sample advertising campaign data has been provided.
