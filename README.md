@@ -2,7 +2,7 @@
 - [src](src) contains the source code.
 - [dist](dist) contains the distributions:
   - Run [Ad Auction Dashboard.jar](dist/Ad%20Auction%20Dashboard.jar) to start the application.
-- [2-week-campaign](src/main/resources/uk/ac/soton/app/2-week-campaign) contains sample advertising campagin data.
+- [2-week-campaign](src/main/resources/uk/ac/soton/app/2-week-campaign) contains sample advertising campaign data.
 #
 - To login into the dashboard, use:
   - username: admin
