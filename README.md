@@ -8,7 +8,9 @@
   - username: admin
   - password: admin
 #
-![image](https://github.com/user-attachments/assets/3a2bba5f-e3b7-48ac-9ea4-f656171c5a8e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a2bba5f-e3b7-48ac-9ea4-f656171c5a8e">
+</p>
 
 ![image](https://github.com/user-attachments/assets/f22c6027-cf5b-4b90-a336-7b019bef33d9)
 
